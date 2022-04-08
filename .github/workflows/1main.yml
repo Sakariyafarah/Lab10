@@ -34,3 +34,4 @@ jobs:
       run: |
         python -m unittest cylinderTest.py
         python -m unittest GeometryCalcWebTest.py
+        python -m unittest sphereTest.py
